@@ -1,2 +1,17 @@
 live server 
 live server preview
+file icons
+live sass compiler
+eCSStractor for VSCode
+Autoprefixer
+EditorConfig for VS Code
+Image preview
+CSS Peek
+Prettier - Code formatter
+Auto Rename Tag
+Google Translate
+Vetur
+intellisense
+Path Intellisense
+Polacode
+Git Merger
