@@ -15,3 +15,6 @@ intellisense
 Path Intellisense
 Polacode
 Git Merger
+Git Graph
+GitLens — Git supercharged
+Night Owl - theme
